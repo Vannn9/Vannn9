@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer with a passion for building interesting projects
+Software Engineer focused on creating impactful projects with modern web technologies.
 
 
 # 💻 Tech Stack:
