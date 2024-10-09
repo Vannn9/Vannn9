@@ -8,7 +8,7 @@ Software Engineer focused on creating impactful projects with modern web technol
 A web app that allows users to practice different blackjack card counting systems, with customizable settings like the number of decks and frequency of count checks.
 
 ### **Alliteration Generator**  
-[**Live Link**](https://vannn9.github.io/AlliterationGenerator/)  
+[**Live Link**](https://alliteration-app.web.app)  
 A fun tool that generates random alliterations, inspired by the names Chris and Pete from the podcast "Abroad in Japan." Built using Angular and hosted on Firebase.
 
 
