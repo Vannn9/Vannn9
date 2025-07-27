@@ -4,16 +4,16 @@ Software Engineer focused on creating impactful projects with modern web technol
 ## Live Projects
 
 ### 📍 7Spice Location Finder  
-[Live Link](https://vannn9.github.io/7Spice_Locations/){:target="_blank"}
+[Live Link](https://vannn9.github.io/7Spice_Locations/)
 A custom store locator built for 7Spice restaurants using the Google Maps JavaScript API. Allows users to search for nearby restaurant locations with geolocation, custom pins, and location details. Built using plain HTML, CSS, and JavaScript.
 Embedded and actively used on the 7Spice website to help customers find nearby restaurants.
 
 ### 🃏 Card Counting Practice App 
-[Live Link](https://vannn9.github.io/CardCountingPractice/){:target="_blank"}
+[Live Link](https://vannn9.github.io/CardCountingPractice/)
 A web app that allows users to practice different blackjack card counting systems, with customizable settings like the number of decks and frequency of count checks.
 
 ### 🔤 Alliteration Generator
-[Live Link](https://alliteration-app.web.app){:target="_blank"}
+[Live Link](https://alliteration-app.web.app)
 A fun tool that generates random alliterations, inspired by the names Chris and Pete from the podcast "Abroad in Japan." Built using Angular and hosted on Firebase.
 
 
